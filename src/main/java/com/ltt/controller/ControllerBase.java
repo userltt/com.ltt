@@ -7,4 +7,9 @@ package com.ltt.controller;
  * @Modified By:
  */
 public class ControllerBase {
+    public static void main(String[] args) {
+        System.out.println("haha");
+    }
 }
+
+
